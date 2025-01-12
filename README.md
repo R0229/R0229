@@ -1,6 +1,8 @@
 ## Hello
 
-🌱 I’m currently learning to use Python in soil science
+ I’m currently learning to use Python, learning plant science
+ I major in soil science 🌱
+ Find me more on https://r0229.github.io/
 
 <!--
 **R0229/R0229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
