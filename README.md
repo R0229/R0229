@@ -1,4 +1,4 @@
-## Hello
+## Welcome to my github profile
 
 - I’m currently learning to use Python, learning plant science
 - I major in soil science 🌱
