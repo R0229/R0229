@@ -1,5 +1,7 @@
 ## Hello
 
+🌱 I’m currently learning to use Python in soil science
+
 <!--
 **R0229/R0229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
