@@ -1,7 +1,7 @@
 ## 
 
-- I’m currently learning to use Python, learning plant science
-- I major in soil science 🌱
+- I’m currently learning to use Python and studying plant science
+- I had a major in soil science 🌱
 - Find me more on https://r0229.github.io/
 
 <!--
