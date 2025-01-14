@@ -1,6 +1,6 @@
 ## 
 
-- I’m currently learning to use Python and studying plant science
+- I’m currently learning computer science
 - I had a major in soil science 🌱
 - Find me more on https://r0229.github.io/
 
