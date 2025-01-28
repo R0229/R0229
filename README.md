@@ -1,7 +1,7 @@
 ## 
 
-- I’m currently learning computer science
-- I had a major in soil science 🌱
+- I’m currently learning coding in multiple languages
+- My research is on wetland soil science
 - Find me more on https://r0229.github.io/
 
 <!--
