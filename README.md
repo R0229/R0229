@@ -1,8 +1,7 @@
 ## 
 
 - I’m currently learning coding in multiple languages
-- My research is on wetland soil science
-- Find me more on https://r0229.github.io/
+- Completed my frist webiste building from scratch: https://dan.dong.personal.website.com/
 
 <!--
 **R0229/R0229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
