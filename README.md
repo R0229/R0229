@@ -1,6 +1,6 @@
 ## 
 
-- I’m currently learning Python.
+- I’m currently learning and coding in Python.
 - Have built my frist webiste from scratch.
 
 <!--
