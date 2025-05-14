@@ -1,7 +1,7 @@
 ## 
 
 - I’m currently learning Python.
-- Building my frist webiste from scratch.
+- Have built my frist webiste from scratch.
 
 <!--
 **R0229/R0229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
